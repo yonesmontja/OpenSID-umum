@@ -1,0 +1,9 @@
+/* nama desa terlalu panjang. sebutan desa tidak ditampilkan. */
+.web-title-desa {
+	display: none;
+}
+
+/* nama kabupaten terlalu panjang. sebutan kabupaten tidak ditampilkan. */
+.web-title-kabupaten {
+	display: none;
+}
