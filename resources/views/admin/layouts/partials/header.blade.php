@@ -1,7 +1,7 @@
 <header class="main-header">
   <a href="{{ route('/') }}" target="_blank" class="logo">
-    <span class="logo-mini"><b>SID</b></span>
-    <span class="logo-lg"><b>OpenSID</b></span>
+    <span class="logo-mini"><b>SIK</b></span>
+    <span class="logo-lg"><b>Sistem Informasi Kampung</b></span>
   </a>
 
   <nav class="navbar navbar-static-top">
