@@ -13,10 +13,10 @@
 // Data Konfigurasi MySQL yang disesuaikan
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = '';
+$db['default']['username'] = 'yumakotdesa_root';
+$db['default']['password'] = 't3ngkuraF1q#';
 $db['default']['port']     = 3306;
-$db['default']['database'] = 'umum';
+$db['default']['database'] = 'yumakotdesa_umum';
 
 /*
 | Untuk setting koneksi database 'Strict Mode'
